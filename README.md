@@ -5,7 +5,7 @@ C++ 各种基本类型的取值范围。
 
 运行：
 
- 0 The minimum value for char is-128
+  0 The minimum value for char is-128
  1 sizeof [int] is:4
  2 The minimum value for int is-2147483648
  3 The maximum value for char is127
